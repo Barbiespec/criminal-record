@@ -6,3 +6,6 @@ In today's world, crime rates have surged, posing complex challenges for law enf
 1. Identify and understand crime patterns and trends.
 2. Identify potential crime hotspots based on data-driven insights.
 3. Enhance proactive crime prevention strategies.
+# Data sourcing 
+# Data transformation and cleaning
+To make our dataset suitable for analysis, we need to clean and transform dataset
