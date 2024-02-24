@@ -11,10 +11,11 @@ To make our dataset suitable for analysis, we need to clean and transform datase
 ## Datasets before cleaning and transformation
 <img width="907" alt="Screenshot 2024-02-23 140809" src="https://github.com/Barbiespec/criminal-record/assets/158063327/694cfefd-e6bc-46f9-9c7d-48b22137d5bd">
 <img width="421" alt="Screenshot 2024-02-23 141007" src="https://github.com/Barbiespec/criminal-record/assets/158063327/3773df7a-39dc-4950-9cfd-057f1117401f">
+
 ## Datasets after cleaning and transformation
 <img width="625" alt="Screenshot 2024-02-24 191432" src="https://github.com/Barbiespec/criminal-record/assets/158063327/103d53fe-2aee-4ae8-9fb0-794dce2fedbb">
 
-## Data modeling
+# Data modeling
 <img width="671" alt="Screenshot 2024-02-24 191858" src="https://github.com/Barbiespec/criminal-record/assets/158063327/ae63c4c2-aaf2-4f25-973d-e6657044af5e">
 
 
