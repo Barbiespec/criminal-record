@@ -10,4 +10,7 @@ In today's world, crime rates have surged, posing complex challenges for law enf
 ## Data transformation and cleaning
 To make our dataset suitable for analysis, we need to clean and transform dataset
 ## datasets before cleaning and transformation
-<img width="907" alt="Screenshot 2024-02-23 140809" src="https://github.com/Barbiespec/criminal-record/assets/158063327/1dde7831-4973-4942-9146-3f499482da32">
+
+<img width="907" alt="Screenshot 2024-02-23 140809" src="https://github.com/Barbiespec/criminal-record/assets/158063327/694cfefd-e6bc-46f9-9c7d-48b22137d5bd">
+
+
