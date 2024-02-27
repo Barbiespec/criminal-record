@@ -5,6 +5,8 @@ In today's world, crime rates have surged, posing complex challenges for law enf
 2. Identify potential crime hotspots based on data-driven insights.
 3. Enhance proactive crime prevention strategies.
 # Data sourcing 
+The 'Police recorded crime open data tables, year ending March 2013 onwards' release is a top-tier statistical output adhering to professional standards. Produced by Home Office statisticians\; John Flatley, it ensures objectivity and complies with the Code of Practice for Statistics.
+For further information about police recorded crime statistics, please email: CrimeandPoliceStats@homeoffice.gov.uk
 [Data source](https://assets.publishing.service.gov.uk/media/65afb470bc0de3000d187340/prc-pfa-mar2013-onwards-tables-250124.ods)
 # Data transformation and cleaning
 To make our dataset suitable for analysis, we need to clean and transform dataset
