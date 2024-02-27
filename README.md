@@ -1,4 +1,4 @@
-# https://www.bing.com/th?id=OIP.vUdpmC9OZxh79tapYG6CywHaEK&w=172&h=100&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2
+# ![download](https://github.com/Barbiespec/criminal-record/assets/158063327/56e082cc-6616-4c2a-b949-adbcb4cd3cad)
 
 # Introduction
 In today's world, crime rates have surged, posing complex challenges for law enforcement globally. To tackle these issues head-on, the integration of advanced technologies and data analysis is crucial. This case study delves into how crime data analysis can elevate the effectiveness of law enforcement in a major city.
